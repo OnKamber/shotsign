@@ -1,0 +1,1 @@
+[] execVM "\ShotSignal\functions\fn_shotSignal.sqf";
